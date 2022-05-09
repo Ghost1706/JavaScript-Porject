@@ -1,2 +1,2 @@
 # JavaScript-Porject
-my javascript journey
+My Js codes on features
